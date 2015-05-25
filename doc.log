@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.22)  25 MAY 2015 17:28
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.22)  25 MAY 2015 17:35
 entering extended mode
 **doc.tex
 (C:\resume\doc.tex
@@ -175,21 +175,22 @@ Package pdftex.def Info: images/4.jpg used on input line 11.
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/resume/images/4.jpg>]
 (C:\resume\doc.aux) ) 
 Here is how much of TeX's memory you used:
- 1452 strings out of 493921
- 19851 string characters out of 3144867
- 78461 words of memory out of 3000000
- 4761 multiletter control sequences out of 15000+200000
- 7293 words of font info for 26 fonts, out of 3000000 for 9000
+ 1454 strings out of 493921
+ 19875 string characters out of 3144867
+ 79461 words of memory out of 3000000
+ 4762 multiletter control sequences out of 15000+200000
+ 7639 words of font info for 27 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 27i,7n,27p,274b,197s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,7n,27p,274b,203s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsf
 onts/cm/cmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfon
 ts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts
 /cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmsy10.pfb>
-Output written on doc.pdf (1 page, 382249 bytes).
+/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+mti10.pfb>
+Output written on doc.pdf (1 page, 395909 bytes).
 PDF statistics:
- 23 PDF objects out of 1000 (max. 8388607)
+ 27 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
